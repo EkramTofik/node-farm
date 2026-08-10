@@ -1,0 +1,1 @@
+Node.js is a JavaScript runtime environment built around the V8 JavaScript engine, with additional APIs and features that allow JavaScript to run outside the browser.

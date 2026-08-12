@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Nodejs",
+  "homepage": "https://github.com/EkramTofik/node-farm#readme",
+  "bugs": {
+    "url": "https://github.com/EkramTofik/node-farm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkramTofik/node-farm.git"
+  },
+  "author": "Ekram",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
